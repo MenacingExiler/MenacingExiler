@@ -1,5 +1,7 @@
 ### Hi there!
 
+This is GitHub profile of MenacingExiler - A student studying game development and programming!
+
 <!--
 **MenacingExiler/MenacingExiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
