@@ -11,4 +11,4 @@ About me
 - Programmer on C# and C++ since 2021.
 
 
-[You can check out my past and active development clips and screenshots here!](https://github.com/MenacingExiler/MenacingExiler/blob/3c4034c1e0d2de15e4f833cbe377021e13d8fa8d/About.md)
+[You can check out my past and active development clips and screenshots here!](https://github.com/MenacingExiler/MenacingExiler/blob/main/About.md)
