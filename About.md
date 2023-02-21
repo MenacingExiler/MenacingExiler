@@ -2,6 +2,13 @@
 
 *Here You can find clips and screenshots of my past and ongoing game developments.*
 
+About me
+
+
+- Developer working on designing, documenting and analysing games.
+- Content creator for VR.
+- Game Developer specializing on Unity and Unreal Engine since 2021.
+- Programmer on C# and C++ since 2021.
 
 **Early Development - Cubely but odd**
 Early carrier development. A puzzle game about moving a cube to the finishing line. The game is based on Unity 3D.
