@@ -54,6 +54,9 @@ Unity shooter game in collaboration with a team of 4 developers.
 
 https://github.com/MenacingExiler/MenacingExiler/assets/95016176/3e7345d4-3119-417d-8849-7909ead7683d
 
+Unity Web game from Game Jam 2023 with a team of 4 developers.
+
+https://menacingexiler.itch.io/cube-mates
 
 
 If you want to know more behind each development design you can contact me!
