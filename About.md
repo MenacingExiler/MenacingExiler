@@ -2,13 +2,6 @@
 
 *Here You can find clips and screenshots of my past and ongoing game developments.*
 
-About me
-
-- Developer working on designing, documenting and analysing games.
-- Content creator for VR.
-- Game Developer specializing on Unity and Unreal Engine since 2021.
-- Programmer on C# and C++ since 2021.
-
 ## Contents
   * Latest development
   * Past development
@@ -17,8 +10,9 @@ About me
 
 ## **Latest Development**
 
-Unity shooter game in collaboration with a team of 4 developers.
-A 2D top down shooter game for PC. Made for 
+**The Dark Descent - Unity shooter game**
+In collaboration with a team of 4 developers.
+A 2D top down shooter game for PC.
 
 https://github.com/MenacingExiler/MenacingExiler/assets/95016176/3e7345d4-3119-417d-8849-7909ead7683d
 
@@ -32,15 +26,16 @@ Link to game: https://menacingexiler.itch.io/cube-mates
 
 ## **Featured Game Developments**
 
-Gameplay of an original 2D Unity game - Viking in a lost world. A 2D platformer game based on Unity game engine.
-
+**Viking in a lost world**
+Gameplay of an original 2D Unity game. A 2D platformer game based on Unity game engine.
 First 2D platformer game using Unity and C# programming. The game make use of Unity engine, custom animations, UI layers and more.
 
 https://user-images.githubusercontent.com/95016176/219345060-f264a2e2-7e75-48a5-9e4f-17632ac74742.mp4
 
 
 
-Counter Showdown - Unity 2D top down survival shooting game.
+**Counter Showdown**
+Unity 2D top down survival shooting game.
 Simple fast shooting game prototype.
 
 https://user-images.githubusercontent.com/95016176/219346935-aca66385-5105-42b9-8e92-b01d9d2238ba.mp4
@@ -60,8 +55,9 @@ Unity Free-To-Play mobile game work in progress - Deconstructo.
 
 
 
-Trailer of Capture the flag using Unreal Engine 4. A capture the flag game using Unreal Engine 4 and Unreal Tournament.
+**Trailer of a custom Unreal Tournament Capture the flag**
 
+Using Unreal Engine 4. A capture the flag game using Unreal Engine 4 and Unreal Tournament.
 Using Unreal Tournament, I designed a capture the flag map based on it. Th game is programmed using premade assets from Unreal Tournament.
 
 https://user-images.githubusercontent.com/95016176/219325645-89e2bf9e-9b81-4c15-af63-e6e7effe9f62.mp4
