@@ -27,6 +27,7 @@ Link to game: https://menacingexiler.itch.io/cube-mates
 ## **Featured Game Developments**
 
 **Viking in a lost world**
+
 Gameplay of an original 2D Unity game. A 2D platformer game based on Unity game engine.
 First 2D platformer game using Unity and C# programming. The game make use of Unity engine, custom animations, UI layers and more.
 
@@ -35,6 +36,7 @@ https://user-images.githubusercontent.com/95016176/219345060-f264a2e2-7e75-48a5-
 
 
 **Counter Showdown**
+
 Unity 2D top down survival shooting game.
 Simple fast shooting game prototype.
 
@@ -48,7 +50,9 @@ https://user-images.githubusercontent.com/95016176/219338607-bcad2311-8b2d-41c4-
 
 ## **Latest Developments**
 
-Unity Free-To-Play mobile game work in progress - Deconstructo.
+**Deconstructo**
+
+Unity Free-To-Play mobile game work in progress.
 
 ![image](https://user-images.githubusercontent.com/95016176/219348330-13bdac95-f284-4c42-be2d-3fda63116785.png)
 ![image](https://user-images.githubusercontent.com/95016176/219348428-0b79213a-dc58-4a48-a7a4-ad3d3fd6e667.png)
