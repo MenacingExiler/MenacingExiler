@@ -54,9 +54,9 @@ https://user-images.githubusercontent.com/95016176/219338607-bcad2311-8b2d-41c4-
 
 Unity Free-To-Play mobile game work in progress.
 
-![image](https://github.com/MenacingExiler/MenacingExiler/assets/95016176/7613a39a-15dd-41cc-80a8-966cf1953d97 )
-![image](https://github.com/MenacingExiler/MenacingExiler/assets/95016176/cbe8c6d1-4bd5-431c-965b-6f281bb0f0ad)
-![image](https://github.com/MenacingExiler/MenacingExiler/assets/95016176/35c4b26c-3517-454c-9325-d47e4c1e2f2d)
+<img src="https://github.com/MenacingExiler/MenacingExiler/assets/95016176/7613a39a-15dd-41cc-80a8-966cf1953d97" alt="image" style="width:30%; height:30%;">
+<img src="https://github.com/MenacingExiler/MenacingExiler/assets/95016176/cbe8c6d1-4bd5-431c-965b-6f281bb0f0ad" alt="image" style="width:30%; height:30%;">
+<img src="https://github.com/MenacingExiler/MenacingExiler/assets/95016176/35c4b26c-3517-454c-9325-d47e4c1e2f2d" alt="image" style="width:30%; height:30%;">
 
 
 
