@@ -7,7 +7,7 @@ About me
 
 - Developer working on designing, documenting and analysing games.
 - Content creator for VR.
-- Game Developer specializing on Unity and Unreal Engine since 2021.
+- Game Developer specializing in Unity and Unreal Engine since 2021.
 - Programmer on C# and C++ since 2021.
 
 
