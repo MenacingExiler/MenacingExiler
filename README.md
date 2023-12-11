@@ -8,7 +8,7 @@ About me
 - Developer working on designing, documenting and analysing games.
 - Content creator for VR.
 - Game Developer specializing in Unity and Unreal Engine since 2021.
-- Programmer on C# and C++ since 2021.
+- C# and C++ programmer since 2021.
 
 
 [You can check out my past and active development clips and screenshots here!](https://github.com/MenacingExiler/MenacingExiler/blob/main/About.md)
