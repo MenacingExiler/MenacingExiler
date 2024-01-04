@@ -14,6 +14,9 @@
 In collaboration with a team of 4 developers.
 A 2D top down shooter game for PC.
 
+Download link: https://buveduvn0-my.sharepoint.com/personal/anh_dh3_st_buv_edu_vn/_layouts/15/guestaccess.aspx?share=EjonapxliJ9FkhmSAMBVsU0BmoW7PtlZbsGJBBjlAGmikw&e=MWGVbw
+
+
 https://github.com/MenacingExiler/MenacingExiler/assets/95016176/3e7345d4-3119-417d-8849-7909ead7683d
 
 **Cube Mates**
